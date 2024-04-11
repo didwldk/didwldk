@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:d1fff7,100:c9c2ff&height=180&text=@didwldk_Github!&animation=&fontColor=ffffff&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 개발_새발_개발자의 깃허브 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 죽쑨개발자의 깃허브 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
     </div>
     <div style="text-align: left;">
